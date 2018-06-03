@@ -1,0 +1,11 @@
+Component tree:
+
+   FilterableProductTable
+     |
+    |---SearchBar
+      |
+    |---ProductTable
+          |
+         |---ProductCategoryRow
+           |
+         |---ProductRow
